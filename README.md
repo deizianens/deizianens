@@ -40,29 +40,27 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=grrl&count_private=true&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrl&layout=compact&count_private=true&theme=tokyonight" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=grrl&count_private=true&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrl&layout=compact&count_private=true&theme=tokyonight" /></td>
   </tr>  
 </table>
 </center>
 
-My previous company: ThoughtWorks
+ThoughtWorks' Alumni
 
 <hr>
 <p align="center">
     <a href="https://codepen.io/deizianens" target="blank">
         <img
             align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
+            src="https://img.shields.io/badge/codepen-%23E4405F.svg?&style=for-the-badge&logo=codepen&logoColor=white&color=333333"
             alt="codepen"
-            height="20"
-            width="20"
         />
     </a>
     <a href="https://linkedin.com/in/deiziane-ns" target="blank">
         <img
             align="center"
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+            src="https://img.shields.io/badge/linkedin-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=333333" 
             alt="linkedin"
         >
     </a>
