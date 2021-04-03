@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, welcome to my Github profile! 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=grrl&show_icons=true&theme=flag-india" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrl&layout=compact&theme=vue" />
 
+🔭 I’m currently working as a Frontend Developer at Sanar.
+📫 I'm a frontend developer based in Belo Horizonte, Brazil.
+
+😄 Pronouns: She/Her
 
 <!--
 **grrl/grrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
