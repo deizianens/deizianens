@@ -5,7 +5,7 @@
 <p>📫 I'm a frontend developer based in Belo Horizonte, Brazil.</p>
 
 <p>😄 Pronouns: She/Her </p>
-<p align="center"Tech Stack:</p>
+<p align="center">Tech Stack:</p>
 <p align="center">
     <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png"
          alt="react"
