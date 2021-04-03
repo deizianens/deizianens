@@ -37,8 +37,8 @@
 
 
 ### 📊 Github Status
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=grrl&count_private=true&show_icons=true&theme=flag-india" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrl&layout=compact&count_private=true&theme=vue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grrl&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrl&layout=compact&count_private=true&theme=tokyonight" />
 
 My previous company: ThoughtWorks
 
