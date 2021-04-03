@@ -37,8 +37,14 @@
 
 
 ### 📊 Github Status
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=grrl&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrl&layout=compact&count_private=true&theme=tokyonight" />
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=grrl&count_private=true&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrl&layout=compact&count_private=true&theme=tokyonight" /></td>
+  </tr>  
+</table>
+</center>
 
 My previous company: ThoughtWorks
 
@@ -56,10 +62,8 @@ My previous company: ThoughtWorks
     <a href="https://linkedin.com/in/deiziane-ns" target="blank">
         <img
             align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="linkedin"
-            height="20"
-            width="20"
         >
     </a>
 </p>
