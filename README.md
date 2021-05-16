@@ -2,7 +2,7 @@
 <h3 align="center">A Front-end Developer from Brazil!</h3>
 
 <p>⚡ I’m currently working as a Frontend Developer at Sanar.</p>
-<p>📫 I'm a frontend developer based in Belo Horizonte, Brazil.</p>
+<p>📫 I'm based in Belo Horizonte, Brazil.</p>
 
 <p>😄 Pronouns: She/Her </p>
 <p align="center">Tech Stack:</p>
@@ -19,11 +19,6 @@
     />
     <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"
         alt="javascript"
-        width="40"
-        height="40"
-    />
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-3/512/256_Php-512.png"
-        alt="php"
         width="40"
         height="40"
     />
